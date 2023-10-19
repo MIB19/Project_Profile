@@ -15,7 +15,30 @@
         class="py-4 border-y-2 border-gray-300 w-full gap-3 flex flex-row max-w-screen-md"
       >
         <div class="w-full">
-          <span class="text-gray-300 font-light">1 Mei 2021 - 5 Mei 2023</span>
+          <span class="text-gray-300 font-light"
+            >14 May 2023 - 31 Oktober 2023</span
+          >
+        </div>
+        <div class="w-full flex flex-col gap-4">
+          <span class="text-lg font-medium"
+            >PT. Aku Cinta Indonesia (VIUIT)</span
+          >
+          <span class="text-sm -mt-4 font-light text-gray-300"
+            >Fullstack Developer</span
+          >
+          <span class="font-light text-sm">
+            Handling and maintenance users module include signin, register, and
+            manipulate token use express js, nodejs, redis, and postgrees.
+            Handling and maintenance scheduler module use node.js. Building web
+            digital menu use React js, Next js, and Tailwind CSS
+          </span>
+        </div>
+      </div>
+      <div
+        class="py-4 border-b-2 border-gray-300 w-full gap-3 flex flex-row max-w-screen-md"
+      >
+        <div class="w-full">
+          <span class="text-gray-300 font-light">1 May 2021 - 5 May 2023</span>
         </div>
         <div class="w-full flex flex-col gap-4">
           <span class="text-lg font-medium"

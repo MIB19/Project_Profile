@@ -27,6 +27,7 @@ const data = ref([
   { img: '/sertif/DasarJs.png', title: 'Basic Javascript' },
   { img: '/sertif/DasarWeb.png', title: 'Basic Backend' },
   { img: '/sertif/NgrokTunnel.png', title: 'Ngrok Tunnel' },
+  { img: '/sertif/WebBasic.png', title: 'Basic WEB' },
 ]);
 const openImage = ref(false);
 const image = ref('');

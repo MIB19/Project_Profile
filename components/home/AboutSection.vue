@@ -3,7 +3,7 @@
     <div
       class="w-5/12 md:flex h-full hidden bg-[url('/banner/MibImg.jpg')] bg-cover bg-center bg-no-repeat"
     >
-      <div class="w-full h-full bg-gray-900 bg-opacity-70"></div>
+      <div class="w-full h-full bg-gray-900 bg-opacity-60"></div>
     </div>
     <div class="w-7/12 md:flex hidden h-full flex-col justify-center">
       <div

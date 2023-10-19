@@ -21,6 +21,7 @@ const skill = ref([
   'React Native',
   'NextJs',
   'ExpressJs',
+  'Node JS',
   'CapacitorJs',
   'IonicJs',
   'Laravel',
@@ -34,5 +35,7 @@ const skill = ref([
   'ANT Design',
   'MySql',
   'PostgreeSql',
+  'Redis',
+  'Firebase',
 ]);
 </script>

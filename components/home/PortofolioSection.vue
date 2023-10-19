@@ -14,7 +14,7 @@
       >
         <img :src="da.img" class="h-52 w-full object-contain bg-white" />
         <span
-          class="h-10 bg-gray-900 w-full flex items-center justify-center -mt-10 font-semibold"
+          class="h-10 bg-gray-900 w-full flex text-center items-center justify-center -mt-10 font-semibold"
           >{{ da.title }}</span
         >
         <div class="w-full flex mt-4 gap-2 z-10 flex-col items-start px-4">

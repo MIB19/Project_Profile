@@ -8,7 +8,7 @@
         class="py-4 border-y-2 border-gray-300 w-full gap-3 flex flex-row max-w-screen-md"
       >
         <div class="w-full">
-          <span class="text-gray-300 font-light">2021 - Now</span>
+          <span class="text-gray-300 font-light">2021 - Present</span>
         </div>
         <div class="w-full flex flex-col gap-4">
           <span class="text-lg font-medium">Universitas Terbuka Indonesia</span>
